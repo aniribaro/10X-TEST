@@ -14,7 +14,7 @@ This kit is provided exclusively to **Pro** and **Enterprise** tier customers af
 | `branding.json` | Configuration file for colors, logo, name |
 | `assets/` | Placeholder for custom logo and images |
 
----Hello
+---
 
 ## How to Use
 
