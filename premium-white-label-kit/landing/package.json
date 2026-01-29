@@ -1,0 +1,12 @@
+{
+  "name": "10x-landing-page",
+  "version": "1.0.0",
+  "description": "Standalone landing page for 10X Accountability Coach",
+  "scripts": {
+    "start": "npx serve -l 3001",
+    "dev": "npx serve -l 3001"
+  },
+  "keywords": ["landing", "10x", "accountability"],
+  "author": "Team 10X",
+  "license": "MIT"
+}

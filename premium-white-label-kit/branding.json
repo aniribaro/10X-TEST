@@ -1,0 +1,40 @@
+{
+  "appName": "Your App Name",
+  "tagline": "Your custom tagline here",
+  "description": "A brief description of your accountability coaching app",
+
+  "logo": {
+    "main": "/assets/logo.svg",
+    "favicon": "/favicon.ico",
+    "ogImage": "/assets/og-image.png"
+  },
+
+  "colors": {
+    "primary": "#8b5cf6",
+    "primaryLight": "#a78bfa",
+    "primaryDark": "#7c3aed",
+    "secondary": "#3b82f6",
+    "accent": "#22c55e",
+    "background": "#0a0a0f",
+    "backgroundSecondary": "#111118",
+    "text": "#ffffff",
+    "textSecondary": "#a1a1aa",
+    "border": "rgba(255, 255, 255, 0.1)"
+  },
+
+  "contact": {
+    "email": "support@yourdomain.com",
+    "website": "https://yourdomain.com"
+  },
+
+  "social": {
+    "twitter": "",
+    "linkedin": "",
+    "github": ""
+  },
+
+  "footer": {
+    "copyright": "© 2024 Your Company Name",
+    "poweredBy": true
+  }
+}
